@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning  Data Science and Machine Learning
 - 💞️ I am an aspirant data analyst looking forward to collabrate on more Machine Learning Projects 
-- 📫 You can contact me via gmail adelinerose241@gmail,com
+- 📫 You can contact me via gmail adelinerose241@gmail.com
   
 
 <!---
